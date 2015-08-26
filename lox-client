@@ -1,0 +1,11 @@
+#!/usr/bin/python
+'''
+
+Actual script that forms the shell command
+
+'''
+
+import lox.client
+
+
+lox.client.main()

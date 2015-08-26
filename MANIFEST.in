@@ -1,0 +1,3 @@
+include lox-client lox-client.desktop README.md LICENSE
+recursive-include po *
+recursive-include lox *

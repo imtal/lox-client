@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Network;Internet;
+Type=Application
+Exec=lox-client start
+Name=LocalBox sync
+GenericName=LocalBox sync client
+Comment=Synchronize folder with LocalBox server
+Icon=localbox
+Keywords=LocalBox;secure;sync;file;sharing
+
